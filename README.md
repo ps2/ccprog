@@ -1,7 +1,7 @@
 # ccprog
 Chipcon CC1110 GPIO-based (bitbang) programmer
 
-Used to program cc1110 devices over GPIO lines on operating systems and boards that support libmraa, like the INTEL Edison board.
+Used to program cc1110 devices over GPIO lines on operating systems and boards that support libmraa, like the [Intel Edison](http://www.intel.com/content/www/us/en/do-it-yourself/edison.html) or [Raspberry Pi](https://www.raspberrypi.org/).
 
 ## Building
 
