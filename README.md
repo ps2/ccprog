@@ -22,6 +22,6 @@ Usage: ./ccprog command
 
 `./ccprog write uart1_alt2_RILEYLINK_US_STDLOC.hex`
 
-# Wiring
+## Wiring
 
 The edison natively uses 1.8V logic levels.  The CC1110 requires 3.3V logic levels, so you will need something like the [Sparkfun GPIO Block](https://www.sparkfun.com/products/13038) to shift the levels up. 
